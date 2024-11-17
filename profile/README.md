@@ -9,5 +9,6 @@ We help each other dream, design and develop fun new extensions.
 
 ## Join Us
 Developing DuckDB is hard but thanks to Team DuckDB Labs - developing extensions is fun!<br>
+There are zero politics or entry barriers in Quackscience. Anything goes as long as it quacks!
 
 Got an idea or an extension you'd like to work on with friends? [Start a Discussion](https://github.com/quackscience/.github/discussions)
