@@ -7,7 +7,7 @@
 Quackscience is a community of DuckDB Extension developers.<br>
 We help each other dream, design and develop fun new extensions.
 
-Developing DuckDB is hard work but thanks to Team DuckDB Labs - developing extensions is not!
-
 ## Join Us
+Developing DuckDB is hard but thanks to Team DuckDB Labs - developing extensions is fun!<br>
+
 Got an idea or an extension you'd like to work on with friends? [Start a Discussion](https://github.com/quackscience/.github/discussions)
