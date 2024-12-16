@@ -7,6 +7,17 @@
 Quackscience is a community of DuckDB Extension developers.<br>
 We help each other dream, design and develop fun new extensions.
 
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=chsql-downloads&color=blue&query=%24.chsql)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=http-server-downloads&color=blue&query=%24.httpserver)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=http-client-downloads&color=blue&query=%24.http_client)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=webmacro-downloads&color=blue&query=%24.webmacro)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=pyroscope-downloads&color=blue&query=%24.pyroscope)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=cronjob-downloads&color=blue&query=%24.cronjob)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=openprompt-downloads&color=blue&query=%24.open_prompt)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=tsid-downloads&color=blue&query=%24.tsid)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=pcap-downloads&color=blue&query=%24.pcap)
+
+
 ## Join Us
 Developing DuckDB is hard but thanks to Team DuckDB Labs - developing extensions is fun!<br>
 There are zero politics or entry barriers in Quackscience. Anything goes as long as it quacks!
