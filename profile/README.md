@@ -30,6 +30,7 @@ There are zero politics or entry barriers in Quackscience. Anything goes as long
 
 Got an idea or an extension you'd like to work on with friends? [Start a Discussion](https://github.com/quackscience/.github/discussions)
 
+<!--
 ![quackscience_stickers](https://github.com/user-attachments/assets/40486325-0e60-4a45-8916-7d82219c3a22)
 
-
+-->
