@@ -2,7 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/eefdd409-847c-445c-b22f-59dafdf8ff81" />
 
-# We 💛 DuckDB Extensions
+# We 💛 DuckDB Community Extensions
 
 Quackscience is a community of DuckDB Extension developers.<br>
 We help each other dream, design and develop fun new extensions.
