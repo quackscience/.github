@@ -26,6 +26,7 @@ There are zero politics or entry barriers in Quackscience. Anything goes as long
 ![ducks-ezgif com-effects](https://github.com/user-attachments/assets/c4c5c9e0-179c-4bdd-b53f-c8f5d30a5893)
 ![ducks-ezgif com-effects (1)](https://github.com/user-attachments/assets/10fc88ad-2bd6-4d5d-9570-9645e4697a00)
 ![ducks-ezgif com-effects](https://github.com/user-attachments/assets/c4c5c9e0-179c-4bdd-b53f-c8f5d30a5893)
+![ducks-ezgif com-effects (1)](https://github.com/user-attachments/assets/10fc88ad-2bd6-4d5d-9570-9645e4697a00)
 
 Got an idea or an extension you'd like to work on with friends? [Start a Discussion](https://github.com/quackscience/.github/discussions)
 
