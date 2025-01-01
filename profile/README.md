@@ -7,16 +7,16 @@
 Quackscience is a community of DuckDB Extension developers.<br>
 We help each other dream, design and develop fun new extensions.
 
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=chsql&color=blue&query=%24.chsql)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=chsql_native&color=blue&query=%24.chsql_native)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=http-server&color=blue&query=%24.httpserver)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=http-client&color=blue&query=%24.http_client)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=webmacro&color=blue&query=%24.webmacro)<br>
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=pyroscope&color=blue&query=%24.pyroscope)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=cronjob&color=blue&query=%24.cronjob)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=openprompt&color=blue&query=%24.open_prompt)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=tsid&color=blue&query=%24.tsid)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=pcap_reader&color=blue&query=%24.pcap_reader)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=chsql&color=yellow&query=%24.chsql)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=chsql_native&color=yellow&query=%24.chsql_native)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=http-server&color=yellow&query=%24.httpserver)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=http-client&color=yellow&query=%24.http_client)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=webmacro&color=yellow&query=%24.webmacro)<br>
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=pyroscope&color=yellow&query=%24.pyroscope)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=cronjob&color=yellow&query=%24.cronjob)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=openprompt&color=yellow&query=%24.open_prompt)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=tsid&color=yellow&query=%24.tsid)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=pcap_reader&color=yellow&query=%24.pcap_reader)
 
 
 
