@@ -4,7 +4,7 @@
 
 # We 💛 DuckDB Community Extensions
 
-Quackscience is a community of DuckDB Extension developers<br>
+Quackscience is an open community of DuckDB Extension developers<br>
 We help each other dream, quack, design and develop fun new extensions
 
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https://tinyurl.com/duckstats&label=chsql&color=yellow&query=%24.chsql)
