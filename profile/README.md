@@ -22,6 +22,7 @@ We help each other dream, quack, design and develop fun new extensions
 
 ## Join Us
 Developing DuckDB is hard but thanks to Team DuckDB Labs - developing extensions is fun!<br>
+Quackscience is all about opensource and human cooperation, rewarded by fun and science.<br>
 There are zero politics or entry barriers in Quackscience. Anything goes as long as it quacks!
 
 ![ducks-ezgif com-effects](https://github.com/user-attachments/assets/c4c5c9e0-179c-4bdd-b53f-c8f5d30a5893)
